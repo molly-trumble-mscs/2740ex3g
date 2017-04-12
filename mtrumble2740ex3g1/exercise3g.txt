@@ -1,0 +1,20 @@
+101
+John Doe
+15.0
+415.0
+102
+Jane Doe
+20.0
+10.0
+103
+Roger Smith
+30.0
+20.0
+104
+Sally Johnson
+40.0
+10.0
+105
+Mike Cornwell
+50.0
+20.0
